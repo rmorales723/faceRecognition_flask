@@ -25,6 +25,7 @@
 
 
 ---
-## <p align="center">Feature Implementation Real Time Face Detection using OpenCV</p>
+## <p align="center">Implemented Real Time Face Detection using OpenCV</p>
 
-<img width="1803" height="1241" alt="Real Time Video" src="https://github.com/user-attachments/assets/af5249d3-e371-4860-bdb9-f69963df0304" />
+<img width="1978" height="1108" alt="Real Time Video" src="https://github.com/user-attachments/assets/8d5ad964-369f-430d-b535-4520eca8bf66" />
+
