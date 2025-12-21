@@ -19,6 +19,6 @@
 
 
 ---
-## <p align="center">face detection</p>
+## <p align="center">face detection successful</p>
 
 <img width="1243" height="1181" alt="DetectedFaces" src="https://github.com/user-attachments/assets/569645de-9a8c-4e69-ab3c-39243eede037" />
