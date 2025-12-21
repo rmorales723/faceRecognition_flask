@@ -22,3 +22,9 @@
 ## <p align="center">face detection successful</p>
 
 <img width="1243" height="1181" alt="DetectedFaces" src="https://github.com/user-attachments/assets/569645de-9a8c-4e69-ab3c-39243eede037" />
+
+
+---
+## <p align="center">Feature Implementation Real Time Face Detection using OpenCV</p>
+
+<img width="1803" height="1241" alt="Real Time Video" src="https://github.com/user-attachments/assets/af5249d3-e371-4860-bdb9-f69963df0304" />
